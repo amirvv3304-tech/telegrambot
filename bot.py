@@ -43,7 +43,7 @@ BOT_TOKEN = "8746222746:AAENy-Dl9Mr37ai5HcvfRYQt3ML_LLreyZM"
 
 # لیست آیدی عددی مدیران اصلی (Manager). این افراد به‌صورت پیش‌فرض و ثابت مدیر هستند
 # و نیازی به ثبت در دیتابیس ندارند. نقش ادمین در این پروژه وجود ندارد.
-MANAGER_IDS = [8131564808]
+MANAGER_IDS = [197704196]
 
 DATABASE_NAME = "bot_database.db"
 
